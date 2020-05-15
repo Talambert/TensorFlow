@@ -14,7 +14,7 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
-  
+#New# 
 
 ## Eager Execution
 
@@ -50,7 +50,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
-
 
 
 
